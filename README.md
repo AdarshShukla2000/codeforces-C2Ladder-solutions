@@ -1,1 +1,1 @@
-# codeforces-C2Ladder-solutions
+# Codeforces-C2Ladder-solutions
